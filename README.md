@@ -1,3 +1,3 @@
-# Homework assignment 2
+# Homework assignment 3
 
-### Chebyshev polynomials
+### Simpson's quadrature
